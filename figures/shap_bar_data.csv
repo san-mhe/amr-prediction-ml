@@ -1,0 +1,237 @@
+gene,mean_abs_shap
+AAC(3)-IId,0.0
+AAC(3)-IIe,0.045158
+AAC(3)-IV,0.01044512
+AAC(3)-Ia,0.0
+AAC(6')-29a,0.0
+AAC(6')-33,0.0
+AAC(6')-IIa,0.0
+AAC(6')-IIc,0.0
+AAC(6')-Ib-cr,0.17721765
+AAC(6')-Ib10,0.0711123
+AAC(6')-Ib7,0.0068330118
+AAC(6')-Ib9,0.0
+AAC(6')-Il,0.0
+AAC(6')-Im,0.0
+ANT(2'')-Ia,0.0
+ANT(3'')-IIa,0.00972384
+APH(2'')-IIa,0.0
+APH(3'')-Ib,0.018893925
+APH(3')-Ia,0.08998774
+APH(3')-VI,0.0
+APH(3')-VIa,0.0
+APH(4)-Ia,0.0
+APH(6)-Id,0.08341433
+BKC-1,0.0
+CARB-3,0.0016794512
+CMY-59,0.0
+CTX-M-1,0.0
+CTX-M-101,0.0
+CTX-M-14,0.0
+CTX-M-15,0.12617372
+CTX-M-2,0.0
+CTX-M-27,0.0
+CTX-M-3,0.0
+CTX-M-65,0.0
+CTX-M-9,0.0
+CTX-M-98,0.0
+DHA-1,0.0
+DHA-6,0.0
+EreA2,0.0
+ErmB,0.0
+FOX-5,0.0
+FosA3,0.0
+FosA5,0.003957683
+FosA6,0.0
+FosA7,0.0
+IMP-14,0.0
+KPC-1,2.7058475
+KPC-3,0.32972193
+KPC-8,0.0
+Klebsiella_pneumoniae_KpnE,0.0
+Klebsiella_pneumoniae_KpnF,0.0
+Klebsiella_pneumoniae_KpnG,0.0
+Klebsiella_pneumoniae_OmpK37,0.0
+Klebsiella_pneumoniae_acrA,0.0
+LAP-2,0.0
+LEN-10,0.0
+LEN-16,0.0
+LEN-17,0.0
+LEN-18,0.0
+LEN-2,0.0
+LEN-26,0.0
+LEN-30,0.0
+LEN-55,0.0
+LEN-9,0.0
+MCR-9,0.0
+NDM-1,0.0948493
+NDM-5,0.0
+OKP-A-3,0.0
+OKP-A-5,0.0
+OKP-A-7,0.0
+OKP-B-19,0.0
+OKP-B-3,0.0
+OKP-B-5,0.0
+OKP-B-6,0.0
+OKP-B-8,0.0
+OXA-1,0.13811792
+OXA-10,0.0
+OXA-181,0.0
+OXA-2,0.0
+OXA-232,0.0
+OXA-48,0.0051572295
+OXA-9,0.19647214
+QnrA1,0.0
+QnrA7,0.0
+QnrB17,0.0
+QnrB20,0.0
+QnrB4,0.0
+QnrB5,0.0
+QnrB58,0.0
+QnrS1,0.0
+SAT-1,0.0
+SCO-1,0.0
+SHV-1,0.01870441
+SHV-100,0.0
+SHV-101,0.0
+SHV-105,0.0
+SHV-106,0.020451624
+SHV-107,0.0
+SHV-108,0.0
+SHV-11,0.0
+SHV-110,0.0041605057
+SHV-119,0.0
+SHV-12,0.0
+SHV-120,0.0
+SHV-121,0.0
+SHV-134,0.10653988
+SHV-142,0.0
+SHV-143,0.0
+SHV-155,0.0
+SHV-161,0.0
+SHV-172,0.0
+SHV-178,0.0
+SHV-182,0.0054150294
+SHV-185,0.0
+SHV-187,0.017984664
+SHV-2,0.0
+SHV-26,0.0
+SHV-27,0.0
+SHV-30,0.0
+SHV-33,0.017602054
+SHV-36,0.0
+SHV-42,0.0
+SHV-44,0.0
+SHV-5,0.0
+SHV-52,0.0
+SHV-60,0.0
+SHV-65,0.0
+SHV-76,0.028624972
+SHV-77,0.0
+SHV-86,0.0
+TEM-1,0.042796616
+TEM-104,0.0
+TEM-12,0.0
+TEM-122,0.08685993
+TEM-15,0.0
+TEM-150,0.032923546
+TEM-158,0.0
+TEM-206,0.0
+TEM-79,0.0
+VEB-1,0.0
+VEB-5,0.0
+VIM-19,0.0
+VIM-27,0.0
+aadA13,0.0
+aadA16,0.0
+aadA2,0.022503873
+aadA5,0.002293237
+armA,0.0
+arr-2,0.01464852
+arr-3,0.0
+catB11,0.0
+catB3,0.0
+catI,0.11593494
+catII_from_Escherichia_coli_K-12,0.050126497
+cmlA1,0.016828923
+cmlA4,0.0
+cmlA5,0.0
+cmlA6,0.0
+determinant_of_bleomycin_resistance,0.04773079
+dfrA1,0.14966124
+dfrA12,0.030551724
+dfrA14,0.06504182
+dfrA15,0.0
+dfrA17,0.0
+dfrA19,0.0
+dfrA22,0.0
+dfrA23,0.0
+dfrA26,0.0
+dfrA27,0.0
+dfrA30,0.0
+dfrA5,0.0
+dfrA7,0.0
+dfrA8,0.0
+dfrB3,0.0
+floR,0.0
+mphA,0.07074688
+mphE,0.0
+msrE,0.023861455
+oqxA,0.007028918
+oqxB,0.045849696
+qacH,0.0076196375
+rmtB,0.0
+rmtC,0.0
+rmtF,0.0
+sul1,0.12855577
+sul2,0.06637806
+sul3,0.0
+tet(A),0.08970623
+tet(B),0.0
+tet(C),0.0
+tet(D),0.04262428
+tet(G),0.0
+tet(W/N/W),0.0
+tetM,0.0
+tetW,0.0
+Other Names,0.0
+NCBI Taxon ID,0.006926645
+Biovar,0.0
+Pathovar,0.0
+Segment,0.0
+Subtype,0.0
+H_type,0.0
+N_type,0.0
+H1 Clade Global,0.0
+H1 Clade US,0.0
+H5 Clade,0.0
+pH1N1-like,0.0
+Lineage,0.0
+Clade,0.0
+Subclade,0.0
+Culture Collection,0.0
+Type Strain,0.0
+Reference,0.0
+Publication,0.22901551
+Authors,0.0
+Chromosome,0.0
+GC Content,0.46990976
+Contig L50,0.13285765
+Contig N50,0.34136036
+TRNA,0.90785587
+RRNA,0.31952634
+Mat Peptide,0.0
+CDS,0.6380073
+Coarse Consistency,0.3603454
+Fine Consistency,0.14567748
+CheckM Contamination,0.21148984
+CheckM Completeness,0.098397136
+Genome Quality Flags,0.0
+Isolation Comments,0.0
+Collection Year,0.20321462
+Season,0.0
+Other Environmental,0.0
+Lab Host,0.0
+Passage,0.0
+Laboratory Typing Method Version,0.0
+Computational Method Performance,0.0
