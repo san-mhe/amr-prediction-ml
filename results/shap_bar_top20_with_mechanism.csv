@@ -1,0 +1,21 @@
+gene,mean_abs_shap,mechanism,drug_class
+KPC-1,2.7058475,Not in CARD,
+TRNA,0.90785587,,
+CDS,0.6380073,,
+GC CONTENT,0.46990976,,
+COARSE CONSISTENCY,0.3603454,,
+CONTIG N50,0.34136036,,
+KPC-3,0.32972193,antibiotic inactivation,carbapenem;cephalosporin;monobactam;penicillin beta-lactam
+RRNA,0.31952634,,
+PUBLICATION,0.22901551,,
+CHECKM CONTAMINATION,0.21148984,,
+COLLECTION YEAR,0.20321462,,
+OXA-9,0.19647214,antibiotic inactivation,penicillin beta-lactam
+AAC(6')-IB-CR,0.17721765,antibiotic inactivation,aminoglycoside antibiotic;fluoroquinolone antibiotic
+DFRA1,0.14966124,antibiotic target replacement,diaminopyrimidine antibiotic
+FINE CONSISTENCY,0.14567748,,
+OXA-1,0.13811792,antibiotic inactivation,cephalosporin;penicillin beta-lactam
+CONTIG L50,0.13285765,,
+SUL1,0.12855577,antibiotic target replacement,sulfonamide antibiotic;sulfone antibiotic
+CTX-M-15,0.12617372,antibiotic inactivation,cephalosporin;penicillin beta-lactam
+CATI,0.11593494,Not in CARD,
